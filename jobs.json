@@ -1,540 +1,128 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3360305",
-    "title": "COAFOR",
-    "company": "ALI CONCEPT SRL",
+    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/responsabil-ingrijire-si-curatenie-spitale-bucuresti",
+    "title": "Responsabil Ingrijire si Curatenie - Spitale Bucuresti",
+    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
     "location": [
-      "MUNICIPIUL CONSTANTA",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
+    "date": "2026-11-17T13:17:14Z",
+    "status": "tested",
     "tags": [
-      "vopsire",
-      "dezinfectare"
+      "dezinfectare",
+      "igienă sanitară"
     ],
-    "matchPercentage": 98,
-    "reason": "Coafor junior cu sarcini explicite de spălat, tuns, vopsit, dezinfectare și igienă."
+    "matchPercentage": 78,
+    "reason": "Igienizarea și dezinfectarea cabinetelor medicale folosesc direct competențele de dezinfectare și norme sanitare, la nivel de început."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3427998",
-    "title": "COAFOR STILIST",
-    "company": "BELLE MARIE DAY SPA SRL",
+    "url": "https://multijobs.ro/job/salon-melany-beauty-center-isi-mareste-echipa/3449",
+    "title": "Salon Melany Beauty Center își mărește echipa!",
+    "company": "MELANY BEAUTY CENTER S.R.L.",
     "location": [
-      "BACAU",
+      "Timișoara",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
+    "date": "2026-11-17T11:06:49Z",
+    "status": "tested",
     "tags": [
-      "vopsire",
-      "coafare"
+      "coafuri",
+      "manichiură"
     ],
-    "matchPercentage": 97,
-    "reason": "Coafor stilist cu sarcini de tuns, vopsit, decolorat și coafuri, nivel sub 3 ani."
+    "matchPercentage": 75,
+    "reason": "Este un centru de frumusețe care își extinde echipa, deci domeniul salon/spa corespunde, iar nivelul nu e senior."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3400153",
-    "title": "FRIZER",
-    "company": "MUSTAFA BEAUTY BARBER S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/beauty-adviser-87",
+    "title": "Beauty Adviser",
+    "company": "CLAUDIA XPERT BEAUTY S.R.L.",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:55:37Z",
+    "status": "tested",
+    "tags": [
+      "consiliere client",
+      "produse îngrijire"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rolul de Beauty Adviser folosește consilierea clientului privind îngrijirea personală în domeniul cosmeticelor, la nivel de început."
+  },
+  {
+    "url": "https://lajumate.ro/ad/angajam-maseuze-salon-bucuresti-sector-3-16528977",
+    "title": "Angajam Maseuze Salon Bucuresti Sector 3",
+    "company": "IDEAL LA JUMATE S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:02:59Z",
+    "status": "tested",
+    "tags": [
+      "consiliere client",
+      "igienă sanitară"
+    ],
+    "matchPercentage": 65,
+    "reason": "Domeniul salon/spa și acceptarea lipsei experienței permit un post entry-level în îngrijirea personală."
+  },
+  {
+    "url": "https://multijobs.ro/job/beauty-advisor/5680",
+    "title": "Beauty Advisor",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:28:55Z",
+    "status": "tested",
+    "tags": [
+      "consiliere client",
+      "produse îngrijire"
+    ],
+    "matchPercentage": 65,
+    "reason": "Beauty Advisor în domeniul cosmeticelor utilizează consilierea clientului privind îngrijirea personală, fără cerințe de senioritate."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3311714",
+    "title": "INFIRMIER/INFIRMIERA",
+    "company": "DEXA DIAGNOSTIC S.R.L.",
     "location": [
       "PLOIESTI",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
-    "tags": [
-      "bărbierit",
-      "coafare"
-    ],
-    "matchPercentage": 96,
-    "reason": "Frizer la barber shop cu sub 3 ani experiență, sarcini concrete de bărbierit, tuns și coafat."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/angajam-hairstylist-coafor-incepator-sau-cu-experienta/",
-    "title": "Hairstylist/coafor",
-    "company": "SASHA BEAUTY TREND SRL",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:53:17Z",
+    "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "coafare",
-      "tuns"
+      "Dezinfectare",
+      "Igienă"
     ],
-    "matchPercentage": 95,
-    "reason": "Hairstylist începător cu training în salon, domeniu și nivel perfect potrivite."
+    "matchPercentage": 65,
+    "reason": "Atribuțiile principale sunt igiena, dezinfectarea suprafețelor și echipamentelor și prevenirea infecțiilor, iar nivelul fără experiență este potrivit."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3409380",
-    "title": "UCENIC - Coafor **",
-    "company": "DIA ZENN S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3382476",
+    "title": "MASEUR",
+    "company": "BEAUTY INTERNATIONAL SRL",
     "location": [
-      "IASI",
+      "SATU MARE",
       "Romania"
     ],
     "salary": null,
     "date": "2026-11-16T13:05:46Z",
     "status": "verified",
     "tags": [
-      "coafare",
-      "tuns"
+      "îngrijire personală",
+      "consiliere client"
     ],
-    "matchPercentage": 95,
-    "reason": "Ucenic coafor, fără experiență, nivel de stagiu ideal pentru student la final de studii."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3440417",
-    "title": "UCENIC - Coafor **",
-    "company": "TOPZILIS SRL",
-    "location": [
-      "BRAILA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "coafare",
-      "tuns"
-    ],
-    "matchPercentage": 95,
-    "reason": "Ucenic coafor la nivel de stagiu, sub 3 ani experiență, domeniu direct relevant."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3360309",
-    "title": "MANICHIURIST",
-    "company": "ALI CONCEPT SRL",
-    "location": [
-      "MUNICIPIUL CONSTANTA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
-    "tags": [
-      "manichiura",
-      "pedichiura"
-    ],
-    "matchPercentage": 95,
-    "reason": "Manichiura, pedichiura, dezinfectarea și consilierea corespund direct competențelor, iar experiența sub 3 ani e potrivită."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3347683",
-    "title": "MANICHIURIST",
-    "company": "S.C. CATWALKBEAUTY SRL",
-    "location": [
-      "CLUJ-NAPOCA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
-    "tags": [
-      "manichiură",
-      "gel"
-    ],
-    "matchPercentage": 92,
-    "reason": "Manichiurist la nivel junior, sub 3 ani experiență, domeniu direct de specialitate."
-  },
-  {
-    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/frizerie-coafura-cosmetica/anunt/caut-colegi-profesionisti-la-un-salon-infrumusetare/3g893404e22f7g66203fii548g5d2f3f.html",
-    "title": "Caut colegi profesioniști la un salon infrumusetare",
-    "company": "PUBLI24 DIGITAL S.R.L.",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:27:42Z",
-    "status": "tested",
-    "tags": [
-      "Coafură",
-      "Manichiură"
-    ],
-    "matchPercentage": 92,
-    "reason": "Salonul caută stiliști și personal pentru manichiură-pedichiură, potrivire directă cu competențele tale."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3389661",
-    "title": "FRIZER",
-    "company": "RAFA HAIRHOOD S.R.L.",
-    "location": [
-      "MUNICIPIUL TIMISOARA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
-    "tags": [
-      "tuns",
-      "coafare"
-    ],
-    "matchPercentage": 90,
-    "reason": "Post de frizer fără experiență anterioară, ideal pentru absolvent cu competențe de tuns și coafare."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3397273",
-    "title": "FRIZER",
-    "company": "FRIZERIA PUIU SRL",
-    "location": [
-      "BRAILA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
-    "tags": [
-      "tuns",
-      "coafare"
-    ],
-    "matchPercentage": 90,
-    "reason": "Frizer la nivel junior în frizerie, cu probă de lucru, competențele tehnice se aplică direct."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3440559",
-    "title": "FRIZER",
-    "company": "STYLE FRESH SRL",
-    "location": [
-      "FOCSANI",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "tuns",
-      "coafare"
-    ],
-    "matchPercentage": 90,
-    "reason": "Frizer începător în salon, sub 3 ani experiență, domeniu direct de specialitate."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3347675",
-    "title": "COAFOR STILIST",
-    "company": "S.C. CATWALKBEAUTY SRL",
-    "location": [
-      "CLUJ-NAPOCA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
-    "tags": [
-      "coafare",
-      "tuns"
-    ],
-    "matchPercentage": 90,
-    "reason": "Coafor stilist la nivel junior, cu liceu de specialitate și sub 3 ani experiență."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3347128",
-    "title": "COAFOR",
-    "company": "ALLURE SPA SRL",
-    "location": [
-      "RADAUTI",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
-    "tags": [
-      "coafare",
-      "tuns"
-    ],
-    "matchPercentage": 90,
-    "reason": "Coafor în spa cu sub 3 ani experiență, servicii de înfrumusețare direct din specialitate."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3358396",
-    "title": "COAFOR STILIST",
-    "company": "ALZIRIS STUDIO S.R.L.",
-    "location": [
-      "CONSTANTA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
-    "tags": [
-      "coafare",
-      "tuns"
-    ],
-    "matchPercentage": 90,
-    "reason": "Coafor stilist fără experiență, nivel entry-level, domeniu direct de specialitate."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3433561",
-    "title": "COAFOR STILIST",
-    "company": "LUXURY BEAUTY CENTER S.R.L.",
-    "location": [
-      "IASI",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "tunsul",
-      "coafuri"
-    ],
-    "matchPercentage": 90,
-    "reason": "Coafor stilist cu experiență sub 3 ani, sarcinile de tuns și coafare folosind direct competențele."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3348706",
-    "title": "FRIZER",
-    "company": "GANGSTERS BARBER SHOP S.R.L.",
-    "location": [
-      "BUCURESTI SECTORUL 3",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
-    "tags": [
-      "tuns",
-      "bărbierit"
-    ],
-    "matchPercentage": 88,
-    "reason": "Post de frizer la o barberie cu experiență sub 3 ani, care folosește direct tunsul și bărbieritul."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3346482",
-    "title": "FRIZER",
-    "company": "PATRICS BARBER S.R.L.",
-    "location": [
-      "BACAU",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
-    "tags": [
-      "tuns",
-      "bărbierit"
-    ],
-    "matchPercentage": 88,
-    "reason": "Frizer la o barberie, nivel junior (sub 3 ani), cu aplicare directă a tunsului și bărbieritului."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3217492",
-    "title": "FRIZER",
-    "company": "SALON MC 2022 BERCENI S.R.L.",
-    "location": [
-      "BUCURESTI SECTORUL 4",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
-    "tags": [
-      "tuns",
-      "coafare"
-    ],
-    "matchPercentage": 88,
-    "reason": "Poziție de frizer în salon la nivel entry-level, potrivită competențelor de tuns și coafare."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3171072",
-    "title": "FRIZER",
-    "company": "BILAN P. VASILE ÎNTREPRINDERE INDIVIDUALĂ",
-    "location": [
-      "POIENILE DE SUB MUNTE",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
-    "tags": [
-      "tuns",
-      "pieptănat"
-    ],
-    "matchPercentage": 88,
-    "reason": "Frizer la nivel junior, sub 3 ani experiență, domeniu direct relevant."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3440542",
-    "title": "FRIZER",
-    "company": "THE MENS ROOM S.R.L.",
-    "location": [
-      "SURAIA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "tuns",
-      "bărbierit"
-    ],
-    "matchPercentage": 88,
-    "reason": "Frizer la o barberie pentru bărbați, nivel junior, folosește tunsul și bărbieritul."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3433578",
-    "title": "FRIZER",
-    "company": "LUXURY BEAUTY CENTER S.R.L.",
-    "location": [
-      "IASI",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "tuns",
-      "coafare"
-    ],
-    "matchPercentage": 88,
-    "reason": "Poziție de frizer în centru beauty la nivel entry-level, competențe direct aplicabile."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3446219",
-    "title": "FRIZER",
-    "company": "ELEGANCE STUDIOS SRL",
-    "location": [
-      "BUCURESTI SECTORUL 3",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:56:12Z",
-    "status": "verified",
-    "tags": [
-      "tuns",
-      "coafare"
-    ],
-    "matchPercentage": 88,
-    "reason": "Frizer în salon la nivel junior, sub 3 ani experiență, fără cerințe de limbă restrictive."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3172093",
-    "title": "COAFOR",
-    "company": "SALON MC 2022 BERCENI S.R.L.",
-    "location": [
-      "BUCURESTI SECTORUL 4",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
-    "tags": [
-      "coafare",
-      "tuns"
-    ],
-    "matchPercentage": 88,
-    "reason": "Coafor la nivel junior în salon, sub 3 ani experiență, competențe direct aplicabile."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3434393",
-    "title": "COAFOR STILIST",
-    "company": "MARIEVIO SRL",
-    "location": [
-      "SLOBOZIA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "coafare",
-      "tuns"
-    ],
-    "matchPercentage": 88,
-    "reason": "Coafor stilist la nivel junior, sub 3 ani experiență, în salon cu lucru cu publicul."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3288672",
-    "title": "PEDICHIURIST",
-    "company": "LAVI NAILS S.R.L.",
-    "location": [
-      "TARGOVISTE",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
-    "tags": [
-      "pedichiura",
-      "ingrijirea pielii"
-    ],
-    "matchPercentage": 85,
-    "reason": "Poziție de pedichiurist cu experiență sub 3 ani, conformă competențelor de îngrijire a picioarelor."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3440426",
-    "title": "UCENIC - Cosmetician**",
-    "company": "TOPZILIS SRL",
-    "location": [
-      "BRAILA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "consiliere",
-      "ingrijirea pielii"
-    ],
-    "matchPercentage": 85,
-    "reason": "Ucenic cosmetician, nivel de start în domeniul îngrijirii personale."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3402892",
-    "title": "STILIST PROTEZIST DE UNGHII",
-    "company": "HOUSE OF NAILS STUDIO S.R.L.",
-    "location": [
-      "DUDU",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
-    "tags": [
-      "manichiura gel",
-      "aplicarea ojei"
-    ],
-    "matchPercentage": 85,
-    "reason": "Stilist protezist de unghii cu experiență sub 3 ani, folosind direct competențele de manichiură cu gel."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3397277",
-    "title": "STILIST PROTEZIST DE UNGHII",
-    "company": "FRIZERIA PUIU SRL",
-    "location": [
-      "BRAILA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
-    "tags": [
-      "manichiura gel"
-    ],
-    "matchPercentage": 85,
-    "reason": "Poziție de stilist protezist de unghii, nivel junior, în domeniul manichiurii."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3357469",
-    "title": "MANICHIURIST",
-    "company": "BELLEVIE STYLE S.R.L.",
-    "location": [
-      "MIHAI VITEAZU",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
-    "tags": [
-      "manichiura"
-    ],
-    "matchPercentage": 80,
-    "reason": "Poziție entry-level de manichiurist, fără experiență cerută, în domeniul de specialitate."
+    "matchPercentage": 62,
+    "reason": "Post de maseur la o firmă de beauty, cu sub 3 ani experiență, în domeniul serviciilor de salon și spa, deși masajul nu e explicit în competențe."
   }
 ]
